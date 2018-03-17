@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "rights": {
+    "copyright": "Transport for NSW",
+    "licence": "http://livetraffic.com/#dev"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "d2e386",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.10533,
+          -34.02977
+        ]
+      },
+      "properties": {
+        "region": "SYD_SOUTH",
+        "title": "5 Ways (Miranda)",
+        "view": "5 ways at The Boulevarde looking west towards Sutherland.",
+        "direction": "W",
+        "href": "http://www.rms.nsw.gov.au/trafficreports/cameras/camera_images/5ways.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2e5699",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.23122,
+          -33.90641
+        ]
+      },
+      "properties": {
+        "region": "SYD_MET",
+        "title": "Alison Road (Randwick)",
+        "view": "Alison Road at Darley Road looking north-west towards Anzac Parade.",
+        "direction": "N-W",
+        "href": "http://www.rms.nsw.gov.au/trafficreports/cameras/camera_images/alisonrd_randwick.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2e649",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.18022,
+          -33.86789
+        ]
+      },
+      "properties": {
+        "region": "SYD_MET",
+        "title": "Anzac Bridge",
+        "view": "Intersection of Victoria Road and Anzac Bridge looking east towards the Sydney CBD.",
+        "direction": "E",
+        "href": "http://www.rms.nsw.gov.au/trafficreports/cameras/camera_images/anzacbr.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2e4913",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.22151,
+          -33.89534
+        ]
+      },
+      "properties": {
+        "region": "SYD_MET",
+        "title": "Anzac Parade (Moore Park)",
+        "view": "Corner of Anzac Parade and Cleveland Street looking south towards Randwick.",
+        "direction": "S",
+        "href": "http://www.rms.nsw.gov.au/trafficreports/cameras/camera_images/anzacpde.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2e5786",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.00533,
+          -33.80866
+        ]
+      },
+      "properties": {
+        "region": "SYD_WEST",
+        "title": "Church Street (Parramatta)",
+        "view": "Corner of Church Street and Victoria Road looking north towards Northmead.",
+        "direction": "N",
+        "href": "http://www.rms.nsw.gov.au/trafficreports/cameras/camera_images/churchst_parra.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2e3350",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.17183,
+          -33.87175
+        ]
+      },
+      "properties": {
+        "region": "SYD_MET",
+        "title": "City West Link",
+        "view": "City West Link at Lilyfield looking east towards Victoria Road intersection.",
+        "direction": "E",
+        "href": "http://www.rms.nsw.gov.au/trafficreports/cameras/camera_images/citywestlink.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2e822",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.05237,
+          -33.77967
+        ]
+      },
+      "properties": {
+        "region": "SYD_NORTH",
+        "title": "Cumberland Highway (Carlingford)",
+        "view": "Cumberland Highway at Marsden Road looking north towards Beecroft.",
+        "direction": "N",
+        "href": "http://www.rms.nsw.gov.au/trafficreports/cameras/camera_images/cumberlandhwy_carlingford.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2e735",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.96039,
+          -33.83031
+        ]
+      },
+      "properties": {
+        "region": "SYD_WEST",
+        "title": "Cumberland Highway (Merrylands)",
+        "view": "Cumberland Highway at Merrylands Road looking north towards the M4 Western Motorway.",
+        "direction": "N",
+        "href": "http://www.rms.nsw.gov.au/trafficreports/cameras/camera_images/cumberlandhwy_merrylands.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2e5175",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.21303,
+          -33.90964
+        ]
+      },
+      "properties": {
+        "region": "SYD_MET",
+        "title": "Eastern Distributor",
+        "view": "Sou
